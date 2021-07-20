@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+nav div ul li {
+    display: inline-block;
+}
+
+#con {
+    width: 1000px;
+    margin-left: 170px;
+}
+
+#list {
+    margin-right: 0px;
+    width: 50%;
+}
+
+#mail {
+    margin-left: 8px;
+}
+
+#logo {
+    width: 70px;
+    height: 70px;
+}
